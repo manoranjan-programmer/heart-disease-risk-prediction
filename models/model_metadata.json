@@ -1,0 +1,26 @@
+{
+    "model_architecture": "Multi-Layer Perceptron (TensorFlow/Keras)",
+    "input_features": 32,
+    "hidden_layers": [
+        128,
+        64
+    ],
+    "dropout_rate": 0.4,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "optimal_threshold": 0.42000000000000004,
+    "test_performance": {
+        "accuracy": 0.76,
+        "precision": 0.2727,
+        "recall_sensitivity": 0.4286,
+        "specificity": 0.814,
+        "f1_score": 0.3333,
+        "roc_auc": 0.6929,
+        "true_negatives": 105,
+        "false_positives": 24,
+        "false_negatives": 12,
+        "true_positives": 9
+    },
+    "training_epochs_completed": 23
+}

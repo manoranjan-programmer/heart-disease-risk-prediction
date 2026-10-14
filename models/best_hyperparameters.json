@@ -1,0 +1,23 @@
+{
+    "best_config_id": "Config_7_HighDropout",
+    "parameters": {
+        "config_id": "Config_7_HighDropout",
+        "hidden_units": [
+            128,
+            64
+        ],
+        "dropout_rate": 0.4,
+        "learning_rate": 0.001,
+        "batch_size": 32
+    },
+    "validation_performance": {
+        "val_auc": 0.7896,
+        "val_loss": 0.439,
+        "val_accuracy": 0.8267,
+        "val_precision": 0.3333,
+        "val_recall": 0.2381,
+        "val_f1": 0.2778,
+        "epochs_trained": 23
+    },
+    "selection_rationale": "Configuration 'Config_7_HighDropout' achieved the optimal balance of discrimination capability (Validation ROC-AUC: 0.7896) and clinical Sensitivity (Recall: 0.2381) while maintaining low validation cross-entropy loss (0.4390). The untouched test set was completely excluded from this selection procedure."
+}

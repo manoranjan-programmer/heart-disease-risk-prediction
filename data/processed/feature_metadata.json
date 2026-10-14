@@ -1,0 +1,87 @@
+{
+    "raw_rows": 999,
+    "train_rows": 699,
+    "val_rows": 150,
+    "test_rows": 150,
+    "target_col": "Heart_Disease",
+    "target_classes": {
+        "0": "No",
+        "1": "Yes"
+    },
+    "train_class_distribution": {
+        "0 (No)": 600,
+        "1 (Yes)": 99,
+        "prevalence_pct": 14.16
+    },
+    "val_class_distribution": {
+        "0 (No)": 129,
+        "1 (Yes)": 21,
+        "prevalence_pct": 14.0
+    },
+    "test_class_distribution": {
+        "0 (No)": 129,
+        "1 (Yes)": 21,
+        "prevalence_pct": 14.0
+    },
+    "feature_names": [
+        "Weight_(kg)",
+        "BMI",
+        "General_Health_Excellent",
+        "General_Health_Fair",
+        "General_Health_Good",
+        "General_Health_Poor",
+        "General_Health_Very Good",
+        "Exercise_No",
+        "Exercise_Yes",
+        "Depression_No",
+        "Depression_Yes",
+        "Diabetes_No",
+        "Diabetes_Yes",
+        "Sex_Female",
+        "Sex_Male",
+        "Age_Category_18-24",
+        "Age_Category_25-29",
+        "Age_Category_30-34",
+        "Age_Category_35-39",
+        "Age_Category_40-44",
+        "Age_Category_45-49",
+        "Age_Category_50-54",
+        "Age_Category_55-59",
+        "Age_Category_60-64",
+        "Age_Category_65-69",
+        "Age_Category_70-74",
+        "Age_Category_75-79",
+        "Age_Category_80+",
+        "Smoking_History_No",
+        "Smoking_History_Yes",
+        "Alcohol_Consumption_No",
+        "Alcohol_Consumption_Yes"
+    ],
+    "num_features": 32,
+    "outlier_analysis": {
+        "Weight_(kg)": {
+            "q25": 67.59,
+            "q75": 91.17,
+            "iqr": 23.58,
+            "lower_bound": 32.220000000000006,
+            "upper_bound": 126.53999999999999,
+            "outlier_count": 22,
+            "outlier_percentage": 2.2,
+            "min_observed": 32.66,
+            "max_observed": 167.83,
+            "clinical_decision": "Preserved without truncation. Values reflect authentic clinical variations (e.g., severe obesity class III with BMI > 40 is a genuine risk factor for heart disease)."
+        },
+        "BMI": {
+            "q25": 24.21,
+            "q75": 31.89,
+            "iqr": 7.68,
+            "lower_bound": 12.690000000000001,
+            "upper_bound": 43.41,
+            "outlier_count": 30,
+            "outlier_percentage": 3.0,
+            "min_observed": 14.06,
+            "max_observed": 51.81,
+            "clinical_decision": "Preserved without truncation. Values reflect authentic clinical variations (e.g., severe obesity class III with BMI > 40 is a genuine risk factor for heart disease)."
+        }
+    }
+}

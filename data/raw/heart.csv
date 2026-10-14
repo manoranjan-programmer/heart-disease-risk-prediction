@@ -1,0 +1,1000 @@
+General_Health,Exercise,Depression,Diabetes,Sex,Age_Category,Weight_(kg),BMI,Smoking_History,Alcohol_Consumption,Heart_Disease
+Poor,No,No,No,Female,70-74,32.66,14.54,Yes,No,No
+Very Good,No,No,Yes,Female,70-74,77.11,28.29,No,No,Yes
+Very Good,Yes,No,Yes,Female,60-64,88.45,33.47,No,No,No
+Poor,Yes,No,Yes,Male,75-79,93.44,28.73,No,Yes,Yes
+Good,No,No,No,Male,80+,88.45,24.37,Yes,Yes,No
+Good,No,Yes,No,Male,60-64,154.22,46.11,No,Yes,No
+Fair,Yes,No,No,Male,60-64,69.85,22.74,Yes,Yes,Yes
+Good,Yes,No,No,Female,65-69,108.86,39.94,Yes,Yes,No
+Fair,No,Yes,No,Female,65-69,72.57,27.46,Yes,Yes,No
+Fair,No,No,Yes,Female,70-74,91.63,34.67,No,Yes,No
+Fair,Yes,No,No,Female,75-79,74.84,29.23,No,No,Yes
+Fair,No,No,Yes,Male,75-79,73.48,23.92,No,Yes,Yes
+Very Good,No,Yes,No,Female,50-54,83.91,29.86,No,No,No
+Fair,No,No,No,Male,65-69,113.4,35.87,Yes,Yes,No
+Excellent,Yes,No,No,Female,70-74,52.16,22.46,No,Yes,No
+Fair,No,No,Yes,Female,70-74,116.12,43.94,No,Yes,No
+Good,No,No,No,Male,80+,99.79,29.84,No,Yes,No
+Very Good,Yes,No,No,Male,80+,81.65,29.05,No,Yes,No
+Fair,Yes,No,Yes,Male,45-49,104.33,33,Yes,Yes,No
+Good,No,No,Yes,Female,70-74,79.38,30.04,No,No,No
+Very Good,Yes,Yes,No,Female,18-24,55.79,22.5,No,Yes,No
+Fair,No,No,Yes,Male,80+,81.65,26.58,No,No,No
+Very Good,Yes,No,No,Female,30-34,124.74,38.35,No,Yes,No
+Good,No,No,Yes,Female,55-59,81.19,30.72,Yes,Yes,No
+Good,No,No,No,Female,80+,70.31,27.46,Yes,Yes,No
+Good,Yes,No,No,Female,70-74,88.45,34.54,Yes,Yes,No
+Fair,No,No,No,Female,70-74,81.65,32.92,No,Yes,No
+Very Good,Yes,No,No,Female,65-69,74.84,30.18,No,Yes,No
+Excellent,Yes,No,No,Male,70-74,112.49,31,No,Yes,No
+Fair,No,Yes,Yes,Male,65-69,147.42,45.33,No,No,No
+Very Good,No,No,No,Female,70-74,83.91,32.77,No,No,No
+Fair,Yes,No,No,Female,65-69,84.82,31.12,Yes,No,No
+Fair,Yes,No,No,Male,70-74,102.06,28.89,No,No,No
+Good,Yes,Yes,No,Female,50-54,70.31,27.46,Yes,Yes,No
+Good,Yes,No,No,Male,70-74,88.45,25.73,No,No,No
+Good,Yes,No,Yes,Female,75-79,64.41,22.24,No,Yes,Yes
+Excellent,Yes,No,No,Female,60-64,60.78,21.63,No,Yes,No
+Good,No,No,No,Female,80+,70.31,25.79,Yes,Yes,No
+Good,No,No,No,Female,80+,77.11,27.44,No,Yes,No
+Good,No,No,No,Female,75-79,69.85,25.63,Yes,No,No
+Excellent,No,No,No,Female,80+,61.23,24.69,No,Yes,No
+Good,Yes,No,Yes,Male,70-74,88.45,27.98,Yes,No,No
+Good,No,Yes,No,Female,70-74,77.11,28.29,No,No,No
+Very Good,Yes,No,No,Male,55-59,88,27.84,No,No,No
+Good,No,No,No,Female,55-59,81.65,30.9,No,Yes,No
+Fair,No,Yes,No,Female,55-59,90.72,29.53,Yes,Yes,No
+Excellent,Yes,No,No,Female,75-79,49.9,17.75,No,No,No
+Fair,Yes,Yes,No,Female,60-64,85.28,30.34,Yes,Yes,No
+Good,No,Yes,No,Female,60-64,120.2,45.49,Yes,Yes,No
+Poor,Yes,Yes,No,Female,65-69,69.4,29.88,No,No,No
+Fair,No,No,Yes,Female,80+,62.14,23.52,Yes,Yes,No
+Very Good,Yes,No,No,Male,70-74,88.45,27.98,No,Yes,No
+Good,Yes,No,No,Male,65-69,104.33,34.97,No,Yes,Yes
+Good,No,No,No,Male,60-64,65.77,22.71,No,No,No
+Very Good,No,No,No,Male,65-69,88.45,27.98,Yes,No,No
+Fair,No,No,No,Female,80+,32.66,14.06,Yes,No,No
+Very Good,Yes,No,No,Male,70-74,89.81,30.11,Yes,Yes,No
+Fair,No,Yes,No,Female,65-69,66.68,27.78,Yes,No,No
+Good,Yes,No,No,Female,75-79,72.57,26.63,No,Yes,No
+Excellent,Yes,No,No,Female,70-74,74.84,31.18,Yes,Yes,No
+Very Good,Yes,No,No,Male,45-49,86.18,26.5,Yes,Yes,No
+Excellent,Yes,No,No,Male,45-49,72.12,23.48,No,Yes,No
+Excellent,Yes,Yes,No,Female,70-74,60.78,23,No,No,No
+Good,Yes,Yes,No,Male,18-24,81.65,25.1,No,Yes,No
+Good,Yes,Yes,No,Female,50-54,61.23,24.69,Yes,No,No
+Fair,No,Yes,Yes,Female,70-74,90.72,33.28,No,No,No
+Fair,No,No,No,Male,75-79,87.54,26.18,Yes,No,No
+Very Good,No,No,No,Female,60-64,62.6,24.45,Yes,No,No
+Fair,No,Yes,No,Female,65-69,75.75,25.39,Yes,No,No
+Poor,No,Yes,No,Female,45-49,88.9,38.28,No,No,No
+Good,Yes,No,No,Female,65-69,81.65,26.58,No,No,No
+Good,No,No,No,Male,60-64,92.08,29.13,Yes,No,No
+Good,Yes,Yes,No,Female,45-49,81.65,28.19,Yes,No,No
+Fair,Yes,Yes,No,Female,55-59,72.57,28.34,Yes,No,No
+Good,No,Yes,Yes,Female,60-64,72.57,27.46,Yes,Yes,No
+Excellent,Yes,No,No,Female,55-59,56.7,24.41,No,Yes,No
+Good,No,No,No,Female,35-39,68.04,24.21,No,No,No
+Good,No,No,No,Female,65-69,79.83,26.76,No,No,No
+Very Good,No,No,No,Male,60-64,61.23,21.14,No,No,No
+Fair,Yes,Yes,No,Female,55-59,63.5,25.61,Yes,No,No
+Excellent,No,No,No,Female,65-69,86.18,28.89,Yes,No,No
+Good,Yes,Yes,No,Female,60-64,58.97,22.31,Yes,No,No
+Very Good,No,No,No,Female,80+,83.91,31.75,No,No,No
+Good,No,No,Yes,Female,65-69,89.81,31.01,Yes,Yes,No
+Fair,Yes,No,No,Female,80+,74.84,25.84,No,Yes,No
+Fair,Yes,No,No,Female,80+,90.72,32.28,No,Yes,No
+Very Good,No,No,No,Female,75-79,84.82,35.33,No,No,No
+Fair,No,No,No,Female,70-74,72.57,28.34,No,Yes,No
+Very Good,Yes,No,No,Male,70-74,90.72,27.12,Yes,Yes,Yes
+Excellent,Yes,No,No,Female,35-39,61.23,22.46,No,Yes,No
+Excellent,Yes,No,No,Female,70-74,62.14,23.52,No,No,No
+Good,Yes,No,No,Female,80+,88.45,31.47,Yes,No,No
+Very Good,No,Yes,No,Male,70-74,90.72,28.7,Yes,Yes,No
+Very Good,Yes,No,No,Male,75-79,114.76,35.29,Yes,Yes,Yes
+Very Good,Yes,No,No,Female,65-69,65.77,25.69,No,Yes,No
+Fair,No,No,Yes,Male,70-74,88,26.31,Yes,No,No
+Good,No,No,No,Female,75-79,81.65,32.92,No,Yes,No
+Fair,Yes,No,No,Female,80+,45.36,18.89,Yes,No,Yes
+Very Good,Yes,No,No,Female,80+,63.5,24.8,No,Yes,No
+Very Good,Yes,No,No,Female,35-39,58.97,23.78,No,Yes,No
+Very Good,Yes,No,Yes,Female,35-39,73.94,27.98,No,Yes,No
+Excellent,Yes,No,No,Female,60-64,90.72,35.43,Yes,Yes,No
+Good,No,No,No,Female,60-64,54.43,22.67,Yes,No,No
+Excellent,Yes,No,No,Male,60-64,90.72,32.28,No,No,No
+Good,No,No,Yes,Male,65-69,102.06,33.23,No,Yes,No
+Very Good,Yes,No,No,Female,55-59,81.65,31.89,No,Yes,No
+Good,Yes,No,Yes,Female,70-74,73.48,27.81,No,Yes,No
+Poor,No,Yes,Yes,Female,75-79,72.57,28.34,No,Yes,Yes
+Fair,Yes,No,Yes,Male,75-79,125.19,33.6,Yes,Yes,Yes
+Good,Yes,Yes,Yes,Female,55-59,77.56,30.29,No,No,No
+Good,Yes,No,No,Male,65-69,96.16,29.57,No,No,No
+Excellent,Yes,No,No,Female,70-74,77.11,26.63,No,Yes,No
+Good,No,No,Yes,Female,70-74,79.83,30.21,Yes,No,No
+Good,Yes,No,No,Female,50-54,95.25,33.89,No,Yes,No
+Very Good,No,No,Yes,Female,65-69,115.67,41.16,Yes,Yes,No
+Good,Yes,No,No,Female,70-74,72.57,27.46,No,No,Yes
+Very Good,Yes,Yes,No,Female,60-64,83.91,28.97,Yes,Yes,No
+Good,Yes,No,No,Female,55-59,56.7,21.46,No,No,No
+Good,No,No,Yes,Female,60-64,88,32.28,No,No,No
+Excellent,Yes,No,No,Male,75-79,82.55,27.67,Yes,Yes,No
+Very Good,Yes,Yes,No,Male,70-74,136.08,43.05,No,No,No
+Fair,No,No,Yes,Female,70-74,78.93,32.88,No,Yes,No
+Good,Yes,No,Yes,Female,60-64,90.72,35.43,Yes,Yes,No
+Good,Yes,No,No,Female,75-79,66.68,25.23,No,Yes,No
+Excellent,Yes,No,No,Female,80+,70.76,25.96,No,Yes,No
+Excellent,Yes,No,No,Female,60-64,61.23,20.53,Yes,Yes,No
+Excellent,Yes,No,No,Female,45-49,99.79,37.76,Yes,Yes,No
+Poor,No,No,Yes,Female,75-79,77.11,25.85,Yes,Yes,Yes
+Excellent,Yes,No,No,Male,80+,70.31,23.57,Yes,No,No
+Good,No,No,Yes,Female,65-69,95.71,36.22,No,No,No
+Fair,No,No,No,Female,80+,53.52,22.3,No,No,No
+Fair,No,No,Yes,Female,75-79,74.84,28.32,No,No,No
+Very Good,Yes,No,Yes,Female,80+,63.5,24.03,No,Yes,Yes
+Excellent,No,No,No,Male,60-64,87.09,25.33,No,No,No
+Good,Yes,Yes,No,Female,65-69,62.6,20.38,No,Yes,No
+Good,Yes,No,Yes,Male,65-69,79.38,23.73,Yes,Yes,No
+Good,No,No,No,Female,70-74,55.34,22.31,No,No,No
+Good,Yes,Yes,No,Male,65-69,68.04,17.79,Yes,No,No
+Good,No,No,Yes,Female,80+,90.72,31.32,No,No,Yes
+Excellent,Yes,No,No,Male,75-79,83.01,22.87,No,No,No
+Fair,No,No,Yes,Male,70-74,95.25,26.96,No,Yes,Yes
+Excellent,Yes,No,No,Male,55-59,86.18,25.07,No,No,No
+Good,No,No,No,Female,80+,65.77,24.89,No,Yes,No
+Fair,No,No,Yes,Female,60-64,55.79,21.11,Yes,Yes,No
+Good,Yes,No,Yes,Female,70-74,72.57,31.25,Yes,No,No
+Excellent,Yes,Yes,No,Male,70-74,90.72,30.41,No,Yes,No
+Very Good,No,No,No,Female,75-79,61.23,22.46,No,No,No
+Fair,No,Yes,No,Female,80+,52.16,20.37,Yes,Yes,Yes
+Good,Yes,Yes,No,Female,60-64,49.9,18.88,Yes,No,No
+Good,Yes,No,No,Female,65-69,102.06,34.21,No,No,No
+Good,Yes,No,No,Female,65-69,123.38,43.9,No,Yes,No
+Very Good,Yes,No,No,Female,80+,54.43,18.79,Yes,Yes,No
+Very Good,Yes,No,No,Male,80+,92.08,27.53,Yes,No,No
+Very Good,Yes,Yes,Yes,Female,70-74,63.5,23.3,No,No,No
+Poor,No,Yes,Yes,Male,60-64,98.88,31.28,No,No,Yes
+Fair,Yes,No,Yes,Female,75-79,73.03,29.45,No,Yes,No
+Good,No,No,Yes,Female,75-79,76.66,30.91,No,No,No
+Good,No,No,No,Male,60-64,113.4,33.91,Yes,Yes,Yes
+Poor,Yes,Yes,Yes,Female,60-64,61.23,25.51,Yes,Yes,No
+Good,No,No,No,Female,65-69,81.65,29.95,No,Yes,No
+Good,No,No,No,Female,80+,79.38,26.61,No,No,No
+Fair,Yes,No,No,Female,70-74,97.52,29.99,No,No,Yes
+Good,No,No,No,Female,80+,61.23,24.69,Yes,Yes,No
+Fair,Yes,Yes,Yes,Female,60-64,71.67,25.5,Yes,Yes,No
+Very Good,Yes,No,No,Female,75-79,83.46,24.28,Yes,No,No
+Fair,Yes,Yes,No,Female,70-74,72.57,30.23,No,Yes,No
+Good,Yes,Yes,Yes,Female,80+,72.57,32.32,No,No,Yes
+Good,Yes,No,No,Male,75-79,108.86,30.81,Yes,Yes,No
+Very Good,No,No,No,Female,75-79,61.23,24.69,No,Yes,No
+Very Good,Yes,No,No,Female,75-79,66.68,25.23,No,No,No
+Fair,Yes,No,No,Male,65-69,122.47,38.74,No,Yes,No
+Fair,Yes,Yes,Yes,Female,50-54,95.71,37.38,No,No,No
+Very Good,No,No,No,Male,75-79,81.65,25.1,No,Yes,No
+Excellent,Yes,No,No,Female,75-79,52.16,19.14,No,Yes,No
+Very Good,Yes,No,No,Female,70-74,58.06,20.05,No,Yes,No
+Good,No,No,No,Female,65-69,65.77,26.52,No,No,No
+Very Good,Yes,No,No,Female,70-74,74.39,26.47,Yes,No,No
+Very Good,Yes,No,No,Female,80+,78.93,30.82,No,No,No
+Fair,No,No,No,Female,80+,77.11,27.44,No,Yes,No
+Poor,No,No,No,Female,75-79,81.65,28.19,Yes,No,No
+Good,Yes,No,No,Male,80+,68.04,22.15,Yes,Yes,Yes
+Good,Yes,No,No,Male,75-79,86.18,20.36,No,Yes,No
+Very Good,Yes,No,No,Female,80+,72.12,27.29,No,Yes,No
+Very Good,No,No,No,Female,80+,54.43,20.6,No,No,No
+Good,Yes,No,No,Male,55-59,90.72,27.12,No,Yes,No
+Very Good,No,No,No,Female,65-69,81.65,31.89,No,No,No
+Very Good,No,No,No,Female,75-79,96.16,38.77,No,Yes,No
+Poor,No,Yes,No,Male,65-69,96.16,33.2,No,Yes,Yes
+Fair,No,No,Yes,Male,70-74,77.11,25.85,Yes,Yes,No
+Very Good,No,No,No,Female,80+,63.5,26.45,Yes,Yes,No
+Fair,No,Yes,No,Male,60-64,67.13,21.86,No,No,No
+Excellent,Yes,No,No,Female,60-64,54.43,20.6,No,Yes,No
+Very Good,No,No,No,Female,80+,82.55,30.29,No,No,No
+Good,Yes,No,No,Female,60-64,53.52,20.25,No,No,No
+Very Good,Yes,No,No,Male,75-79,82.1,25.97,No,Yes,Yes
+Fair,Yes,No,No,Female,70-74,53.52,21.58,Yes,Yes,No
+Fair,Yes,No,Yes,Female,75-79,47.63,19.2,No,Yes,No
+Good,Yes,Yes,No,Male,65-69,81.65,29.05,Yes,No,No
+Fair,Yes,No,Yes,Female,80+,81.65,32.92,Yes,No,No
+Very Good,Yes,Yes,Yes,Female,30-34,99.34,41.38,No,Yes,No
+Excellent,Yes,No,No,Male,60-64,79.38,27.41,Yes,Yes,No
+Excellent,Yes,No,No,Male,80+,85.73,27.91,No,Yes,No
+Very Good,Yes,No,No,Female,55-59,70.31,22.24,Yes,Yes,No
+Very Good,Yes,No,No,Male,50-54,108.86,35.44,No,No,No
+Fair,Yes,No,No,Male,65-69,102.06,32.28,No,Yes,No
+Good,No,No,No,Female,80+,56.7,22.14,No,No,No
+Good,Yes,No,Yes,Male,60-64,108.41,31.53,No,No,No
+Good,Yes,Yes,Yes,Male,80+,99.79,27.5,Yes,Yes,No
+Good,No,No,Yes,Female,70-74,91.17,34.5,Yes,Yes,Yes
+Very Good,Yes,No,No,Male,60-64,122.47,38.74,No,Yes,No
+Very Good,Yes,No,No,Female,55-59,57.61,24.8,No,No,No
+Very Good,Yes,No,No,Female,60-64,69.4,27.98,Yes,Yes,No
+Fair,No,Yes,No,Female,70-74,77.11,31.09,No,No,Yes
+Good,Yes,No,No,Female,18-24,63.05,23.86,No,Yes,No
+Fair,Yes,No,No,Female,70-74,64.41,22.24,Yes,Yes,No
+Very Good,No,No,No,Female,70-74,68.04,28.34,Yes,Yes,No
+Good,No,No,No,Female,60-64,70.31,25.79,No,No,No
+Fair,No,No,No,Female,80+,72.57,31.25,Yes,Yes,No
+Fair,Yes,No,No,Female,45-49,83.91,30.79,Yes,No,No
+Good,No,No,Yes,Female,65-69,68.04,26.57,No,No,No
+Good,No,No,Yes,Female,75-79,79.38,32.01,No,No,No
+Fair,No,No,No,Female,65-69,81.65,25.83,Yes,Yes,Yes
+Excellent,Yes,No,Yes,Female,60-64,83.46,33.65,No,No,No
+Good,Yes,No,No,Female,70-74,58.06,23.41,No,Yes,No
+Good,Yes,No,Yes,Female,60-64,77.11,25.1,No,Yes,No
+Good,No,No,Yes,Male,50-54,99.79,31.57,Yes,Yes,No
+Good,No,No,Yes,Female,60-64,102.06,42.51,No,Yes,No
+Fair,No,No,Yes,Female,65-69,104.33,39.48,No,No,No
+Good,No,No,No,Female,75-79,63.5,23.3,No,No,No
+Very Good,No,No,No,Female,70-74,45.81,20.4,Yes,No,No
+Good,Yes,No,No,Female,75-79,95.25,37.2,No,Yes,No
+Fair,Yes,No,Yes,Female,50-54,94.35,34.61,Yes,Yes,No
+Good,No,No,No,Female,80+,44.45,15.82,No,Yes,No
+Good,Yes,No,No,Male,60-64,117.93,36.26,No,No,No
+Fair,No,No,Yes,Female,70-74,81.65,29.05,Yes,No,No
+Good,Yes,No,No,Female,80+,61.23,26.37,Yes,Yes,No
+Good,Yes,No,No,Male,65-69,88.9,27.34,No,Yes,Yes
+Good,No,No,Yes,Female,70-74,86.18,25.77,No,No,No
+Good,No,No,No,Female,60-64,90.72,28.7,Yes,Yes,No
+Good,No,No,No,Male,70-74,104.33,29.53,Yes,Yes,No
+Fair,Yes,Yes,Yes,Female,60-64,107.5,41.98,No,No,No
+Good,Yes,No,No,Male,50-54,90.72,32.28,No,Yes,No
+Fair,No,Yes,Yes,Female,65-69,90.72,33.28,No,Yes,No
+Very Good,Yes,No,No,Female,75-79,77.11,33.2,Yes,No,No
+Very Good,No,No,No,Female,45-49,77.11,27.44,Yes,No,No
+Good,Yes,Yes,No,Female,75-79,64.41,23.63,Yes,Yes,No
+Poor,No,No,Yes,Female,55-59,127.01,49.6,No,Yes,Yes
+Very Good,No,No,No,Female,75-79,74.84,28.32,No,No,No
+Fair,No,No,No,Female,70-74,86.18,30.67,No,Yes,No
+Very Good,Yes,No,No,Female,65-69,74.39,26.47,Yes,No,No
+Good,Yes,No,Yes,Female,65-69,106.59,36.81,No,Yes,No
+Very Good,Yes,No,Yes,Male,75-79,60.78,22.3,Yes,No,Yes
+Good,Yes,No,No,Female,70-74,54.43,20.6,No,No,No
+Excellent,Yes,No,No,Female,80+,45.36,18.29,No,Yes,No
+Fair,No,No,No,Female,60-64,77.11,29.18,Yes,Yes,No
+Poor,Yes,No,Yes,Male,55-59,106.59,34.7,No,No,No
+Good,No,No,No,Female,80+,81.19,32.74,Yes,Yes,No
+Good,No,No,No,Female,80+,77.11,30.11,No,No,No
+Very Good,Yes,No,No,Female,65-69,77.11,26.63,No,No,No
+Good,No,No,No,Male,70-74,60.78,24.51,No,Yes,No
+Very Good,No,No,No,Female,75-79,74.84,28.32,Yes,Yes,No
+Good,No,No,No,Female,60-64,107.95,42.16,Yes,No,No
+Fair,No,No,No,Female,80+,72.57,26.63,No,No,No
+Fair,No,No,No,Male,75-79,90.72,27.12,No,No,No
+Fair,No,No,Yes,Female,75-79,61.23,24.69,No,No,No
+Good,No,No,Yes,Male,80+,89.36,29.09,No,No,No
+Good,Yes,No,No,Male,70-74,92.99,30.27,Yes,No,Yes
+Very Good,No,No,No,Female,65-69,71.67,31.91,Yes,No,No
+Good,Yes,No,No,Female,80+,53.07,19.47,Yes,No,No
+Fair,No,No,Yes,Female,75-79,78.02,26.15,No,Yes,No
+Very Good,Yes,Yes,Yes,Male,70-74,79.83,28.41,No,No,No
+Excellent,Yes,No,No,Female,50-54,131.09,51.19,No,Yes,No
+Very Good,Yes,No,No,Female,40-44,77.11,26.63,Yes,Yes,No
+Fair,No,No,Yes,Male,70-74,136.08,39.58,No,Yes,Yes
+Very Good,No,No,No,Female,70-74,65.77,26.52,No,Yes,No
+Good,No,No,No,Female,70-74,87.09,30.07,Yes,Yes,No
+Fair,Yes,No,No,Female,80+,76.66,28.12,No,Yes,No
+Good,Yes,No,No,Female,80+,74.84,24.37,No,No,No
+Good,Yes,No,Yes,Female,80+,57.61,21.8,No,Yes,No
+Good,Yes,No,No,Male,70-74,97.98,27.73,Yes,Yes,Yes
+Good,No,No,No,Female,80+,84.37,30.02,Yes,No,No
+Very Good,Yes,No,No,Male,55-59,111.13,33.23,Yes,No,No
+Excellent,Yes,No,No,Female,45-49,50.8,17.54,No,No,No
+Very Good,No,Yes,No,Female,70-74,95.25,39.68,Yes,No,No
+Very Good,Yes,No,No,Female,75-79,57.15,21.63,Yes,No,No
+Very Good,Yes,No,No,Male,55-59,95.25,27.71,No,Yes,No
+Excellent,Yes,No,No,Female,55-59,79.38,31,No,No,No
+Very Good,Yes,No,No,Female,70-74,107.95,39.6,No,No,No
+Good,Yes,No,Yes,Female,70-74,64.86,22.4,Yes,Yes,No
+Poor,No,Yes,No,Female,75-79,79.38,30.04,No,Yes,Yes
+Good,No,No,No,Female,80+,56.7,24.41,No,Yes,No
+Good,No,No,Yes,Male,70-74,120.2,41.5,Yes,No,No
+Good,Yes,No,Yes,Female,75-79,80.29,30.38,No,No,Yes
+Good,No,No,No,Male,75-79,108.86,33.47,Yes,Yes,No
+Good,Yes,No,Yes,Female,70-74,72.57,25.06,Yes,Yes,No
+Very Good,Yes,No,No,Male,80+,92.99,29.41,No,No,Yes
+Very Good,Yes,No,No,Female,70-74,96.16,35.28,Yes,Yes,No
+Good,Yes,No,No,Female,70-74,76.2,27.96,No,Yes,No
+Very Good,No,No,Yes,Female,55-59,114.31,43.26,Yes,No,Yes
+Good,Yes,No,No,Male,80+,65.32,21.89,Yes,No,No
+Very Good,Yes,Yes,No,Female,45-49,72.57,26.63,No,No,No
+Very Good,No,No,Yes,Female,65-69,56.7,20.8,Yes,No,No
+Fair,Yes,No,No,Female,80+,47.63,20.51,No,No,No
+Good,Yes,No,No,Male,55-59,104.33,34.97,No,Yes,No
+Good,No,Yes,No,Female,55-59,70.31,25.02,No,Yes,No
+Good,No,No,No,Female,35-39,97.07,33.52,Yes,No,No
+Good,Yes,No,Yes,Male,65-69,95.25,31.01,Yes,No,No
+Excellent,No,No,No,Female,70-74,68.04,26.57,No,Yes,No
+Good,Yes,No,No,Female,70-74,67.59,24.79,No,Yes,No
+Good,Yes,No,No,Female,80+,53.07,18.88,Yes,No,No
+Very Good,Yes,No,No,Female,75-79,122.47,44.93,No,Yes,No
+Poor,No,No,No,Female,70-74,56.7,22.14,No,Yes,No
+Fair,Yes,No,No,Female,75-79,58.97,23.03,No,No,Yes
+Good,Yes,No,No,Male,80+,75.3,25.24,No,No,No
+Good,No,No,No,Female,80+,105.69,38.77,Yes,Yes,No
+Good,No,No,No,Female,50-54,110.68,43.22,No,Yes,No
+Fair,No,No,Yes,Male,80+,86.64,25.2,Yes,Yes,No
+Fair,Yes,Yes,No,Female,70-74,84.82,29.29,Yes,Yes,Yes
+Poor,Yes,No,Yes,Male,70-74,98.88,26.54,No,Yes,Yes
+Fair,No,No,Yes,Male,80+,72.57,23.63,Yes,No,Yes
+Fair,No,Yes,No,Male,80+,111.13,38.37,Yes,Yes,Yes
+Good,No,Yes,No,Female,50-54,70.31,24.28,No,No,No
+Excellent,Yes,No,No,Female,55-59,49.9,18.88,No,Yes,No
+Very Good,Yes,No,No,Female,18-24,74.84,26.63,No,Yes,No
+Poor,No,No,Yes,Male,80+,91.17,26.52,Yes,No,No
+Good,Yes,No,No,Female,80+,51.26,18.24,No,No,No
+Good,Yes,No,No,Female,70-74,97.07,41.79,Yes,No,No
+Very Good,Yes,No,No,Female,80+,61.69,22.63,No,Yes,No
+Very Good,No,No,No,Female,80+,61.23,23.91,No,Yes,Yes
+Poor,Yes,Yes,Yes,Female,55-59,89.36,34.9,No,No,No
+Very Good,No,No,No,Female,65-69,54.43,21.95,No,Yes,No
+Fair,Yes,No,No,Female,60-64,107.05,36.96,Yes,No,No
+Very Good,Yes,No,No,Female,55-59,65.77,20.22,No,No,No
+Good,Yes,No,No,Male,80+,72.57,22.32,No,Yes,No
+Good,Yes,No,Yes,Female,70-74,77.11,30.11,Yes,No,No
+Very Good,No,No,No,Female,80+,47.63,19.84,No,No,No
+Good,No,No,No,Female,60-64,70.31,26.61,No,Yes,No
+Good,No,No,No,Female,70-74,76.66,29.01,No,Yes,No
+Very Good,Yes,No,No,Female,80+,42.64,17.76,No,No,No
+Excellent,Yes,No,No,Female,45-49,61.23,23.91,Yes,Yes,No
+Fair,Yes,Yes,No,Male,65-69,83.91,25.09,Yes,Yes,Yes
+Very Good,Yes,No,No,Male,80+,79.38,25.84,Yes,No,No
+Very Good,No,No,No,Female,75-79,81.65,29.05,No,Yes,No
+Very Good,No,No,No,Female,80+,68.04,25.75,No,Yes,No
+Very Good,No,No,No,Female,65-69,72.57,27.46,No,Yes,No
+Good,Yes,No,No,Male,70-74,79.38,28.25,No,No,No
+Good,Yes,No,No,Male,70-74,92.99,29.41,Yes,No,No
+Good,Yes,No,Yes,Male,80+,92.99,29.41,No,No,No
+Very Good,Yes,No,No,Female,60-64,68.04,24.21,No,No,No
+Very Good,Yes,No,No,Female,80+,72.57,30.23,Yes,No,No
+Very Good,Yes,No,No,Male,80+,77.11,27.44,No,Yes,No
+Good,No,No,Yes,Male,65-69,97.98,27.73,Yes,Yes,Yes
+Fair,Yes,Yes,No,Female,45-49,113.4,44.29,No,No,No
+Fair,No,No,No,Male,65-69,70.31,17.91,Yes,No,Yes
+Very Good,Yes,No,No,Female,80+,40.82,17.58,No,No,No
+Poor,No,Yes,Yes,Male,60-64,104.33,34.97,No,No,No
+Fair,No,No,No,Male,70-74,90.72,28.7,No,Yes,No
+Good,Yes,No,No,Female,70-74,81.65,29.05,No,Yes,No
+Very Good,Yes,No,No,Female,60-64,101.6,34.06,Yes,Yes,No
+Very Good,Yes,No,No,Female,65-69,77.11,25.1,Yes,No,No
+Fair,Yes,No,Yes,Male,65-69,97.52,32.69,Yes,Yes,Yes
+Fair,No,No,No,Female,80+,67.59,23.34,No,No,No
+Very Good,Yes,No,No,Male,70-74,79.38,27.41,No,No,No
+Fair,No,No,Yes,Female,70-74,90.26,32.12,No,No,No
+Good,Yes,Yes,No,Female,60-64,72.57,29.26,No,Yes,No
+Good,Yes,No,No,Male,65-69,74.84,22.38,Yes,Yes,Yes
+Excellent,Yes,No,Yes,Male,75-79,83.01,28.66,No,No,No
+Fair,No,Yes,No,Male,65-69,73.48,28.7,Yes,Yes,Yes
+Very Good,Yes,No,No,Male,65-69,83.91,25.09,No,No,No
+Good,Yes,No,Yes,Male,75-79,113.4,38.01,Yes,Yes,Yes
+Excellent,Yes,No,No,Female,65-69,58.97,22.31,Yes,No,No
+Good,Yes,No,Yes,Female,70-74,65.32,21.26,No,Yes,No
+Good,Yes,No,No,Male,75-79,131.54,37.23,No,Yes,Yes
+Good,No,No,No,Female,70-74,98.43,35.02,No,No,No
+Very Good,Yes,No,No,Female,60-64,99.79,36.61,No,Yes,No
+Excellent,No,No,No,Female,65-69,76.2,28.84,Yes,Yes,No
+Good,Yes,No,No,Female,70-74,78.47,28.79,No,Yes,No
+Good,No,No,No,Female,25-29,52.16,18.01,No,Yes,No
+Fair,No,Yes,No,Female,60-64,56.7,22.14,Yes,Yes,No
+Fair,No,Yes,No,Male,60-64,95.25,29.29,Yes,No,Yes
+Fair,Yes,No,No,Male,30-34,97.52,31.75,No,Yes,No
+Good,Yes,No,Yes,Male,75-79,86.64,29.04,Yes,No,No
+Good,No,No,Yes,Male,55-59,61.23,19.94,No,Yes,Yes
+Good,Yes,Yes,No,Male,65-69,117.93,34.3,No,Yes,No
+Fair,Yes,No,No,Female,80+,59.87,25.78,No,No,No
+Excellent,No,No,No,Female,70-74,77.11,29.18,No,Yes,No
+Poor,No,No,Yes,Female,70-74,78.93,30.82,Yes,Yes,Yes
+Good,Yes,No,No,Male,80+,68.95,24.53,No,Yes,No
+Fair,Yes,No,Yes,Female,70-74,112.49,38.84,No,Yes,No
+Poor,No,No,Yes,Female,80+,82.55,26.88,No,No,Yes
+Good,No,No,No,Male,75-79,79.38,24.41,No,No,No
+Good,Yes,No,No,Male,75-79,83.46,25.66,Yes,No,Yes
+Fair,No,No,No,Female,75-79,81.65,29.05,No,No,No
+Good,No,Yes,No,Female,75-79,104.33,37.12,Yes,Yes,No
+Excellent,Yes,No,No,Female,80+,70.76,26.78,No,No,No
+Good,Yes,No,Yes,Female,65-69,95.25,36.05,No,Yes,No
+Fair,No,No,No,Female,65-69,69.85,25.63,No,No,No
+Poor,No,No,No,Female,80+,68.04,22.15,Yes,No,Yes
+Very Good,No,No,No,Female,70-74,63.5,21.29,Yes,Yes,No
+Good,Yes,No,No,Female,70-74,86.18,32.61,No,Yes,No
+Good,Yes,No,No,Male,80+,90.72,27.12,No,No,No
+Fair,Yes,No,No,Female,65-69,60.33,23.56,Yes,Yes,No
+Excellent,Yes,No,No,Male,80+,68.04,23.49,Yes,Yes,No
+Poor,No,No,Yes,Female,75-79,81.19,31.71,No,Yes,No
+Very Good,Yes,No,No,Female,30-34,65.77,23.4,No,No,No
+Poor,Yes,Yes,No,Female,80+,74.84,28.32,No,Yes,Yes
+Very Good,Yes,No,No,Female,70-74,68.04,26.57,No,Yes,No
+Good,No,No,No,Female,70-74,61.23,22.46,No,No,No
+Fair,Yes,No,Yes,Male,70-74,90.72,31.32,No,Yes,No
+Excellent,Yes,No,No,Female,60-64,65.32,26.34,Yes,Yes,No
+Good,No,No,Yes,Female,65-69,63.5,25.61,No,No,No
+Poor,No,No,No,Female,75-79,52.16,19.74,Yes,No,Yes
+Very Good,Yes,No,No,Male,60-64,86.18,26.5,Yes,No,No
+Very Good,Yes,No,No,Female,70-74,56.7,21.46,No,Yes,No
+Poor,No,No,No,Male,60-64,117.93,35.26,Yes,No,No
+Very Good,No,No,No,Female,65-69,56.7,23.62,No,Yes,No
+Good,Yes,No,Yes,Male,80+,72.57,28.34,Yes,No,No
+Very Good,Yes,No,No,Female,70-74,56.7,20.18,No,Yes,No
+Good,Yes,No,No,Female,65-69,78.02,26.94,No,No,No
+Excellent,Yes,No,No,Male,55-59,94.8,26.83,No,Yes,No
+Excellent,No,No,Yes,Female,75-79,68.04,25.75,No,No,No
+Fair,No,Yes,Yes,Male,65-69,107.95,32.28,Yes,Yes,No
+Fair,No,No,Yes,Female,80+,54.43,21.26,No,No,No
+Very Good,Yes,No,No,Female,70-74,67.13,24.63,No,Yes,Yes
+Fair,No,No,Yes,Female,70-74,74.84,30.18,No,Yes,No
+Very Good,No,No,No,Female,70-74,71.67,27.99,Yes,No,Yes
+Good,Yes,No,No,Female,55-59,83.91,36.13,No,No,No
+Very Good,Yes,No,No,Male,70-74,76.2,24.81,No,No,No
+Very Good,Yes,Yes,No,Male,65-69,74.84,23.67,Yes,No,No
+Good,Yes,No,No,Female,60-64,90.72,37.79,No,Yes,No
+Excellent,Yes,No,No,Female,80+,48.53,17.81,No,No,No
+Fair,Yes,No,Yes,Female,80+,110.68,32.19,Yes,Yes,Yes
+Good,No,Yes,No,Female,55-59,88.45,30.54,Yes,Yes,No
+Fair,Yes,No,Yes,Female,65-69,86.18,29.76,Yes,No,Yes
+Good,Yes,No,No,Male,70-74,88.45,27.98,No,No,No
+Fair,Yes,No,No,Female,60-64,70.31,27.46,Yes,No,No
+Fair,Yes,No,No,Female,65-69,65.77,24.89,No,Yes,No
+Very Good,Yes,No,No,Female,70-74,74.84,32.22,No,No,No
+Excellent,Yes,No,No,Female,65-69,84.37,31.93,No,No,No
+Good,No,No,No,Male,80+,72.12,19.87,No,No,No
+Very Good,Yes,No,No,Male,65-69,81.65,23.75,No,Yes,No
+Fair,No,No,No,Male,70-74,62.6,19.8,Yes,Yes,No
+Poor,Yes,No,No,Female,80+,62.6,26.07,No,No,Yes
+Fair,No,No,Yes,Female,80+,49.9,17.23,No,No,No
+Fair,No,No,No,Female,55-59,61.23,23.91,No,Yes,No
+Very Good,No,No,No,Female,65-69,72.57,28.34,Yes,No,No
+Good,Yes,No,Yes,Female,65-69,84.37,34.02,No,No,No
+Very Good,No,No,Yes,Female,60-64,77.11,32.12,Yes,Yes,Yes
+Fair,Yes,No,Yes,Female,65-69,69.85,27.28,No,Yes,No
+Good,No,No,No,Female,75-79,65.77,25.69,No,Yes,No
+Very Good,Yes,No,No,Male,60-64,95.25,31.93,Yes,No,Yes
+Very Good,Yes,Yes,Yes,Female,55-59,69.85,27.28,No,No,No
+Very Good,Yes,No,No,Female,75-79,78.02,26.15,Yes,No,No
+Good,Yes,No,No,Female,60-64,63.5,23.3,No,No,No
+Fair,Yes,No,Yes,Female,65-69,99.34,50.9,No,Yes,No
+Fair,No,No,No,Male,70-74,95.25,28.48,No,Yes,Yes
+Fair,Yes,No,No,Male,80+,90.72,27.12,No,No,No
+Fair,Yes,No,Yes,Female,70-74,74.84,24.37,No,Yes,No
+Very Good,Yes,Yes,Yes,Female,60-64,122.47,44.93,No,Yes,No
+Fair,Yes,No,No,Male,60-64,97.52,29.99,No,Yes,No
+Very Good,Yes,Yes,No,Male,75-79,87.09,26.04,Yes,No,No
+Good,Yes,No,No,Male,65-69,61.23,18.31,Yes,No,Yes
+Poor,Yes,No,Yes,Female,65-69,81.65,30.9,No,No,No
+Very Good,No,No,No,Female,70-74,68.04,27.44,Yes,No,No
+Very Good,Yes,Yes,No,Female,55-59,77.11,30.11,Yes,Yes,No
+Fair,No,No,Yes,Female,65-69,91.63,31.64,Yes,No,No
+Good,Yes,No,Yes,Male,70-74,96.62,30.56,Yes,No,Yes
+Poor,No,No,No,Male,65-69,105.69,33.43,Yes,Yes,Yes
+Fair,No,Yes,No,Female,45-49,83.46,27.98,No,Yes,No
+Excellent,Yes,No,No,Female,65-69,77.11,25.1,No,No,No
+Excellent,No,No,No,Female,70-74,78.93,30.82,No,Yes,No
+Poor,No,Yes,Yes,Female,80+,108.86,43.9,No,Yes,No
+Fair,Yes,No,No,Female,70-74,52.16,19.14,Yes,No,No
+Good,Yes,No,No,Male,60-64,117.48,34.17,No,Yes,No
+Very Good,No,Yes,No,Female,60-64,70.31,28.35,No,No,No
+Poor,No,No,Yes,Female,80+,102.51,37.61,No,Yes,Yes
+Very Good,Yes,No,No,Male,70-74,81.65,23.11,No,No,No
+Fair,Yes,No,No,Female,80+,46.27,18.07,No,Yes,Yes
+Fair,Yes,No,Yes,Male,55-59,67.13,21.86,Yes,Yes,Yes
+Excellent,Yes,No,No,Female,60-64,75.3,30.36,No,No,No
+Fair,Yes,Yes,Yes,Female,60-64,102.06,38.62,Yes,No,No
+Very Good,Yes,No,Yes,Female,70-74,56.7,22.86,No,Yes,No
+Poor,No,Yes,No,Female,60-64,109.77,42.87,Yes,Yes,Yes
+Fair,No,No,Yes,Female,80+,84.82,30.18,No,No,Yes
+Fair,Yes,Yes,No,Male,70-74,97.52,31.75,Yes,Yes,No
+Good,Yes,No,Yes,Male,65-69,81.65,27.37,No,Yes,No
+Poor,Yes,No,No,Female,80+,79.38,27.41,No,No,No
+Very Good,Yes,No,No,Female,75-79,58.51,23.59,Yes,No,No
+Fair,No,No,No,Female,70-74,113.4,40.35,No,Yes,No
+Excellent,No,No,Yes,Female,70-74,104.33,38.27,No,Yes,No
+Very Good,No,No,Yes,Female,75-79,57.15,23.81,No,No,No
+Poor,Yes,No,No,Female,75-79,72.57,32.32,No,No,No
+Fair,Yes,No,No,Male,70-74,68.49,20.48,Yes,Yes,No
+Very Good,No,No,No,Male,70-74,133.81,44.85,Yes,No,Yes
+Excellent,Yes,No,No,Female,80+,58.97,23.78,No,No,No
+Fair,No,No,Yes,Female,70-74,99.79,36.61,No,No,Yes
+Good,No,No,No,Female,75-79,77.11,29.18,Yes,No,No
+Very Good,No,No,No,Female,55-59,83.91,28.13,Yes,Yes,No
+Good,No,No,No,Female,65-69,52.16,19.14,No,Yes,No
+Good,Yes,No,No,Male,75-79,95.25,30.13,Yes,Yes,Yes
+Very Good,No,No,Yes,Male,75-79,72.57,23.63,Yes,Yes,No
+Good,No,No,No,Female,70-74,97.52,35.78,No,Yes,Yes
+Fair,No,No,Yes,Female,60-64,83.91,31.75,No,No,No
+Fair,Yes,No,No,Male,80+,69.4,23.26,Yes,Yes,No
+Good,No,No,Yes,Female,80+,64.41,24.37,No,Yes,No
+Good,Yes,No,No,Female,65-69,63.5,27.34,No,Yes,No
+Very Good,No,No,No,Female,65-69,74.84,28.32,No,No,No
+Fair,No,No,No,Female,80+,90.26,32.12,No,No,No
+Fair,Yes,No,No,Female,60-64,52.16,19.14,Yes,Yes,No
+Fair,No,No,Yes,Female,80+,62.6,26.07,No,Yes,No
+Fair,No,No,No,Male,65-69,74.84,23.67,Yes,Yes,No
+Poor,Yes,No,No,Female,80+,72.57,23.63,No,No,No
+Good,No,Yes,Yes,Female,60-64,90.72,35.43,Yes,No,No
+Good,Yes,No,Yes,Female,80+,61.23,25.51,No,Yes,No
+Very Good,No,No,No,Female,60-64,65.77,24.89,Yes,No,No
+Very Good,Yes,No,Yes,Female,80+,53.52,23.05,No,Yes,No
+Very Good,Yes,No,Yes,Female,50-54,65.77,26.52,No,Yes,No
+Very Good,Yes,No,No,Female,55-59,99.79,34.46,No,Yes,No
+Very Good,Yes,Yes,No,Female,70-74,54.43,19.97,No,Yes,No
+Very Good,Yes,No,No,Male,80+,77.11,24.39,No,No,No
+Excellent,No,No,No,Female,50-54,48.53,18.95,No,No,No
+Excellent,Yes,No,No,Male,18-24,70.76,23.72,No,Yes,No
+Good,No,No,No,Female,80+,61.23,23.91,No,No,No
+Fair,No,Yes,No,Female,55-59,112.49,43.93,No,Yes,No
+Good,No,No,No,Female,80+,68.04,24.96,No,No,No
+Good,Yes,Yes,No,Female,60-64,79.38,29.12,No,Yes,No
+Very Good,No,No,No,Female,65-69,61.23,26.37,No,No,Yes
+Good,Yes,No,No,Male,70-74,95.25,33.89,No,No,No
+Very Good,Yes,No,No,Female,65-69,61.23,21.79,No,Yes,No
+Good,No,Yes,No,Female,60-64,86.64,33.83,No,Yes,No
+Very Good,Yes,No,No,Female,75-79,63.5,24.03,No,No,No
+Good,No,No,No,Male,60-64,68.04,24.21,Yes,No,No
+Very Good,No,No,Yes,Female,75-79,104.33,34.97,No,Yes,No
+Very Good,Yes,No,No,Female,45-49,68.04,24.21,No,No,No
+Excellent,No,No,Yes,Female,80+,65.77,26.52,No,No,No
+Very Good,Yes,No,No,Female,75-79,81.65,28.19,No,Yes,No
+Good,No,No,No,Female,70-74,45.36,16.64,No,Yes,No
+Good,Yes,No,No,Male,65-69,90.72,25.68,Yes,No,No
+Very Good,Yes,No,No,Female,70-74,68.04,24.96,No,No,No
+Fair,No,Yes,Yes,Female,50-54,86.18,29.76,Yes,Yes,No
+Poor,No,Yes,No,Female,60-64,67.59,22,Yes,Yes,Yes
+Excellent,Yes,No,No,Female,40-44,113.4,45.73,No,Yes,No
+Very Good,No,No,No,Female,75-79,68.49,25.92,Yes,Yes,No
+Very Good,Yes,No,No,Female,75-79,81.65,26.58,No,No,No
+Good,No,No,Yes,Male,80+,98.88,31.28,No,Yes,No
+Fair,Yes,Yes,No,Female,60-64,158.76,51.69,No,No,No
+Good,No,No,Yes,Female,70-74,74.84,29.23,Yes,No,Yes
+Very Good,Yes,No,No,Male,80+,86.18,30.67,Yes,Yes,Yes
+Poor,No,No,No,Female,80+,60.78,24.51,Yes,No,No
+Excellent,Yes,No,No,Male,70-74,81.65,27.37,Yes,No,No
+Good,Yes,No,No,Female,65-69,68.95,22.45,Yes,No,No
+Good,Yes,No,No,Female,75-79,70.76,28.53,Yes,No,No
+Very Good,Yes,No,No,Female,75-79,52.62,22.65,Yes,Yes,No
+Good,Yes,No,No,Female,65-69,104.33,34.97,No,No,No
+Good,Yes,No,No,Female,80+,85.73,29.6,Yes,Yes,Yes
+Good,Yes,Yes,Yes,Male,75-79,80.74,27.06,No,No,No
+Excellent,No,No,No,Female,70-74,52.16,22.46,Yes,No,No
+Very Good,No,No,No,Female,80+,48.99,21.81,No,No,No
+Very Good,No,No,No,Female,80+,76.66,27.28,No,Yes,No
+Very Good,Yes,No,No,Male,80+,89.81,25.42,No,No,Yes
+Fair,No,No,No,Female,75-79,49.9,20.78,No,No,No
+Good,Yes,No,No,Male,75-79,68.95,23.81,No,No,No
+Good,Yes,Yes,No,Male,45-49,117.03,29.81,No,No,No
+Fair,Yes,No,No,Female,80+,67.59,25.58,Yes,No,No
+Poor,Yes,No,Yes,Male,70-74,54.88,18.95,Yes,Yes,Yes
+Poor,No,Yes,No,Female,70-74,79.38,32.01,No,Yes,Yes
+Excellent,Yes,No,No,Female,65-69,88.45,36.84,No,No,No
+Good,No,No,No,Male,70-74,58.51,20.2,Yes,Yes,Yes
+Fair,No,No,Yes,Male,65-69,61.23,20.53,Yes,Yes,Yes
+Good,No,No,No,Female,55-59,72.57,25.82,No,No,No
+Good,No,No,No,Male,35-39,88.45,27.2,No,No,No
+Very Good,Yes,No,No,Female,70-74,61.23,21.79,No,No,No
+Poor,Yes,No,Yes,Female,65-69,86.18,31.62,No,Yes,Yes
+Good,No,Yes,No,Male,70-74,106.59,35.73,Yes,No,No
+Very Good,Yes,No,No,Female,60-64,74.39,28.15,No,Yes,No
+Very Good,No,No,Yes,Female,70-74,86.18,34.75,No,Yes,No
+Good,Yes,No,No,Female,75-79,33.11,18.27,Yes,Yes,No
+Good,Yes,No,No,Female,80+,79.38,31,Yes,No,No
+Good,No,No,No,Female,80+,76.2,27.12,No,Yes,No
+Very Good,No,No,No,Female,80+,58.97,23.03,Yes,No,No
+Good,Yes,No,Yes,Male,75-79,62.6,26.95,No,Yes,No
+Poor,No,No,No,Female,75-79,51.71,22.26,Yes,Yes,No
+Good,Yes,No,No,Female,75-79,92.53,32.93,No,No,No
+Fair,Yes,No,No,Female,80+,58.97,23.78,No,Yes,No
+Fair,No,Yes,Yes,Female,60-64,76.2,32.81,No,No,No
+Good,Yes,No,No,Female,75-79,78.02,29.52,No,No,No
+Very Good,No,No,Yes,Female,50-54,102.06,36.32,No,Yes,No
+Very Good,Yes,No,No,Female,70-74,57.61,20.5,Yes,No,No
+Poor,Yes,Yes,No,Female,75-79,54.43,21.26,No,No,No
+Very Good,Yes,No,No,Female,80+,63.5,26.45,No,No,No
+Fair,Yes,No,No,Male,70-74,92.53,24.83,Yes,No,No
+Very Good,Yes,No,No,Male,60-64,77.11,26.63,No,No,No
+Very Good,No,No,No,Female,80+,60.78,22.3,No,Yes,No
+Good,Yes,No,No,Female,70-74,87.09,30.07,No,No,No
+Good,Yes,No,No,Female,65-69,88.9,32.62,No,No,No
+Fair,Yes,No,Yes,Male,70-74,120.2,35.94,Yes,Yes,No
+Fair,Yes,No,No,Female,80+,72.57,31.25,No,Yes,No
+Excellent,Yes,No,No,Female,65-69,63.5,24.03,No,Yes,No
+Very Good,Yes,No,No,Female,70-74,68.04,22.81,No,Yes,No
+Good,Yes,No,No,Male,18-24,86.18,25.07,Yes,Yes,No
+Good,Yes,No,No,Male,70-74,86.18,22.53,Yes,Yes,No
+Good,Yes,No,Yes,Female,65-69,77.11,31.09,No,Yes,No
+Fair,Yes,Yes,No,Male,70-74,122.47,37.66,No,Yes,No
+Very Good,Yes,No,No,Female,75-79,95.25,33.89,No,No,No
+Good,Yes,No,No,Female,65-69,113.4,48.82,No,No,No
+Very Good,Yes,No,Yes,Female,75-79,64.41,27.73,No,No,No
+Fair,No,No,No,Female,60-64,81.65,26.58,Yes,No,No
+Very Good,Yes,No,No,Male,80+,72.57,24.33,No,Yes,No
+Good,Yes,No,No,Female,70-74,52.16,20.37,No,Yes,No
+Good,Yes,No,Yes,Female,70-74,90.72,34.33,No,No,No
+Fair,Yes,Yes,Yes,Female,55-59,74.84,29.23,No,No,Yes
+Very Good,Yes,No,No,Male,65-69,74.84,27.46,No,Yes,No
+Good,Yes,No,No,Female,50-54,68.04,29.29,No,Yes,No
+Very Good,Yes,No,No,Female,70-74,67.59,24.05,Yes,No,No
+Fair,Yes,No,Yes,Female,60-64,65.77,24.89,Yes,Yes,No
+Fair,No,Yes,No,Male,60-64,104.33,33.96,No,No,No
+Fair,No,Yes,No,Female,70-74,108.86,41.2,Yes,Yes,No
+Good,Yes,No,Yes,Male,65-69,90.72,27.12,Yes,Yes,Yes
+Excellent,Yes,No,No,Male,65-69,92.99,27.05,No,Yes,No
+Good,No,No,No,Female,75-79,63.5,24.03,No,No,No
+Poor,No,No,No,Female,80+,65.77,26.52,Yes,No,Yes
+Good,Yes,No,No,Female,65-69,99.34,36.44,No,No,No
+Very Good,Yes,No,No,Female,80+,34.02,16.23,No,Yes,No
+Fair,Yes,No,No,Female,70-74,72.57,28.34,No,Yes,Yes
+Excellent,Yes,No,No,Female,65-69,55.34,22.31,No,No,No
+Very Good,Yes,No,No,Male,55-59,102.06,31.38,No,Yes,No
+Fair,Yes,Yes,Yes,Male,60-64,110.68,34.03,Yes,No,Yes
+Excellent,No,No,No,Female,65-69,89.81,33.99,No,No,No
+Very Good,No,No,No,Male,65-69,98.88,29.57,Yes,Yes,Yes
+Fair,No,Yes,No,Female,55-59,95.25,36.05,No,Yes,No
+Fair,Yes,No,No,Male,55-59,80.74,27.06,Yes,Yes,Yes
+Excellent,Yes,No,Yes,Male,75-79,97.98,31.9,No,No,No
+Very Good,No,No,No,Male,45-49,102.06,30.52,Yes,Yes,No
+Fair,No,Yes,No,Female,80+,65.77,24.13,No,Yes,No
+Fair,No,No,No,Female,80+,86.18,31.62,No,Yes,No
+Good,Yes,No,No,Male,80+,68.04,22.15,Yes,No,No
+Very Good,No,No,No,Female,80+,44.91,20,Yes,Yes,No
+Good,Yes,No,No,Female,80+,46.27,19.27,No,Yes,Yes
+Excellent,Yes,No,No,Female,50-54,83.91,28.13,No,Yes,No
+Poor,No,No,No,Female,70-74,102.06,33.23,Yes,No,No
+Fair,No,No,No,Female,80+,48.99,21.09,No,Yes,No
+Very Good,Yes,No,No,Female,65-69,61.69,20.08,Yes,Yes,No
+Very Good,Yes,No,No,Male,55-59,83.01,27.02,No,No,Yes
+Good,Yes,No,No,Female,70-74,72.57,31.25,No,No,No
+Good,No,No,No,Female,50-54,77.11,29.18,No,Yes,No
+Poor,Yes,No,No,Female,55-59,105.23,37.45,No,No,No
+Fair,No,No,No,Female,75-79,50.8,16.54,No,No,No
+Fair,No,No,Yes,Female,60-64,145.6,51.81,No,Yes,No
+Very Good,Yes,No,No,Male,70-74,104.33,37.12,No,No,Yes
+Good,Yes,No,No,Male,80+,106.14,31.74,No,Yes,Yes
+Very Good,Yes,No,No,Female,70-74,77.11,27.44,Yes,No,No
+Good,No,No,No,Female,65-69,63.5,24.03,No,No,No
+Very Good,No,No,No,Female,60-64,68.04,28.34,Yes,No,No
+Fair,No,No,Yes,Female,80+,55.34,23.83,No,Yes,No
+Very Good,Yes,No,No,Male,60-64,83.91,27.32,No,No,No
+Good,No,No,No,Female,80+,63.5,22.6,No,Yes,No
+Fair,No,No,Yes,Female,75-79,136.08,49.92,No,No,Yes
+Very Good,Yes,No,No,Male,80+,83.91,23.75,No,Yes,Yes
+Poor,No,Yes,No,Female,70-74,81.65,27.37,No,No,No
+Good,Yes,No,No,Female,70-74,81.65,25.83,Yes,No,No
+Fair,No,No,No,Female,75-79,83.91,33.84,Yes,No,No
+Good,No,No,No,Female,75-79,88.45,31.47,No,No,No
+Good,No,No,Yes,Male,70-74,89.36,24.62,Yes,No,No
+Fair,Yes,No,No,Female,80+,99.79,30.68,No,No,No
+Very Good,Yes,No,Yes,Female,60-64,79.38,30.04,Yes,Yes,No
+Good,No,No,No,Female,80+,81.65,29.95,Yes,Yes,No
+Good,No,No,No,Female,40-44,95.25,36.05,No,Yes,No
+Good,Yes,No,No,Male,65-69,88.45,27.2,No,Yes,No
+Poor,No,No,No,Male,45-49,77.11,21.83,Yes,Yes,No
+Very Good,Yes,Yes,No,Female,75-79,86.18,35.9,No,Yes,No
+Good,Yes,No,No,Female,70-74,77.11,29.18,No,Yes,No
+Excellent,Yes,No,Yes,Female,65-69,56.25,20.63,No,No,No
+Good,No,No,No,Female,45-49,77.11,28.29,No,No,No
+Good,Yes,Yes,Yes,Female,60-64,63.5,25.61,No,Yes,No
+Good,Yes,No,No,Female,55-59,74.39,29.05,No,Yes,No
+Poor,No,Yes,Yes,Male,75-79,139.71,46.83,No,No,Yes
+Very Good,Yes,No,No,Female,80+,81.65,29.95,No,No,No
+Good,Yes,Yes,No,Female,45-49,88.45,31.47,No,Yes,No
+Poor,No,No,No,Male,70-74,86.18,27.26,Yes,No,No
+Excellent,Yes,No,No,Female,40-44,124.28,45.6,No,No,No
+Very Good,Yes,No,No,Female,40-44,72.57,26.63,Yes,Yes,No
+Good,Yes,No,No,Female,65-69,58.97,21.63,No,No,No
+Very Good,No,No,No,Male,40-44,124.74,31.78,Yes,No,No
+Good,No,No,No,Female,65-69,73.94,31.83,No,Yes,No
+Fair,No,Yes,No,Female,60-64,86.18,34.75,Yes,Yes,No
+Very Good,Yes,No,No,Female,75-79,70.31,25.02,No,Yes,No
+Fair,No,No,Yes,Female,60-64,63.5,20.09,No,Yes,No
+Fair,No,No,No,Female,65-69,57.15,20.34,Yes,No,Yes
+Excellent,Yes,No,No,Female,75-79,86.18,31.62,Yes,Yes,No
+Good,No,No,No,Male,45-49,68.04,22.81,Yes,No,No
+Fair,Yes,No,No,Female,70-74,113.4,42.91,No,Yes,No
+Very Good,No,No,Yes,Female,70-74,113.4,32.98,No,Yes,No
+Excellent,Yes,No,No,Female,75-79,47.63,17.47,Yes,Yes,No
+Excellent,Yes,No,No,Female,60-64,58.97,20.98,Yes,Yes,No
+Fair,Yes,Yes,No,Female,60-64,114.76,35.29,Yes,No,No
+Fair,No,No,No,Female,55-59,63.5,22.6,No,Yes,No
+Good,No,No,Yes,Male,75-79,105.23,30.61,Yes,No,No
+Good,Yes,No,No,Female,80+,72.57,25.06,Yes,No,Yes
+Good,Yes,No,Yes,Female,65-69,80.74,28.73,Yes,Yes,No
+Good,No,No,No,Female,60-64,78.93,28.95,No,Yes,No
+Fair,No,No,No,Male,70-74,90.72,25.68,Yes,Yes,Yes
+Good,Yes,Yes,Yes,Female,65-69,90.72,33.28,No,Yes,No
+Very Good,Yes,No,No,Male,70-74,77.11,25.85,No,No,No
+Fair,No,No,Yes,Female,60-64,74.84,30.18,Yes,Yes,No
+Poor,Yes,No,No,Male,80+,58.97,19.2,Yes,Yes,Yes
+Good,Yes,No,No,Female,80+,59.87,21.97,No,Yes,No
+Excellent,No,No,No,Female,65-69,72.57,25.82,No,No,No
+Very Good,Yes,Yes,No,Female,60-64,68.95,22.45,No,Yes,No
+Fair,No,Yes,Yes,Female,75-79,79.83,38.09,No,No,No
+Good,Yes,No,No,Female,65-69,70.31,27.46,No,Yes,Yes
+Poor,No,Yes,No,Female,60-64,86.18,34.75,No,Yes,No
+Good,No,Yes,No,Female,60-64,103.42,37.94,Yes,Yes,No
+Good,Yes,No,No,Male,65-69,99.79,30.68,No,No,No
+Good,No,No,No,Male,65-69,108.86,33.47,No,Yes,No
+Fair,Yes,No,Yes,Male,70-74,78.02,23.33,Yes,Yes,No
+Fair,No,No,No,Male,80+,86.18,25.07,No,Yes,Yes
+Very Good,Yes,No,No,Male,80+,90.72,28.7,No,Yes,No
+Excellent,Yes,No,No,Female,70-74,77.11,27.44,No,No,No
+Very Good,Yes,No,No,Female,65-69,90.72,35.43,Yes,No,No
+Good,Yes,No,No,Female,75-79,79.38,28.25,No,No,Yes
+Very Good,Yes,No,No,Female,80+,71.21,26.95,Yes,No,No
+Very Good,Yes,No,No,Female,70-74,61.23,22.46,Yes,No,No
+Fair,Yes,No,Yes,Female,65-69,91.17,36.76,No,No,No
+Good,Yes,Yes,Yes,Female,80+,72.57,28.34,No,No,No
+Good,Yes,No,No,Male,80+,72.57,22.32,Yes,Yes,No
+Excellent,Yes,No,No,Female,70-74,65.32,24.72,No,No,No
+Very Good,No,Yes,Yes,Female,55-59,74.84,28.32,No,Yes,No
+Good,Yes,Yes,No,Female,70-74,85.73,35.71,Yes,Yes,Yes
+Good,Yes,No,Yes,Male,70-74,99.79,31.57,Yes,Yes,No
+Excellent,Yes,No,No,Male,75-79,79.38,25.84,No,No,No
+Fair,Yes,No,Yes,Female,80+,69.4,26.26,No,No,Yes
+Very Good,No,No,No,Male,70-74,113.4,35.87,Yes,Yes,No
+Excellent,Yes,No,No,Female,75-79,80.74,31.53,No,Yes,No
+Good,Yes,No,No,Female,40-44,104.33,34.97,Yes,No,No
+Very Good,Yes,No,No,Female,75-79,55.34,22.31,No,Yes,No
+Good,Yes,No,No,Female,70-74,61.23,23.17,No,Yes,No
+Good,Yes,No,Yes,Female,75-79,71.67,26.29,No,Yes,No
+Fair,Yes,No,Yes,Female,55-59,99.79,35.51,No,Yes,No
+Good,Yes,No,No,Female,70-74,73.94,26.31,Yes,No,No
+Good,Yes,Yes,No,Female,70-74,72.57,26.63,Yes,No,No
+Very Good,No,No,No,Female,60-64,68.04,22.15,Yes,No,No
+Good,Yes,Yes,No,Male,70-74,83.91,26.54,Yes,No,No
+Very Good,Yes,No,No,Male,30-34,108.86,37.59,Yes,Yes,No
+Very Good,Yes,No,No,Female,60-64,89.81,30.11,No,No,No
+Fair,Yes,No,Yes,Male,80+,81.65,29.05,No,No,No
+Fair,No,No,Yes,Female,70-74,113.4,40.35,No,Yes,No
+Very Good,Yes,No,No,Female,75-79,68.04,20.92,No,No,No
+Very Good,No,No,No,Female,65-69,81.65,30.9,No,Yes,No
+Good,Yes,No,No,Female,75-79,73.94,29.81,No,No,No
+Very Good,Yes,No,Yes,Female,65-69,102.51,37.61,No,No,Yes
+Excellent,Yes,Yes,No,Female,70-74,58.97,21.63,Yes,Yes,No
+Excellent,No,No,No,Female,45-49,81.65,25.83,No,Yes,No
+Very Good,Yes,No,No,Female,65-69,68.04,28.34,No,Yes,No
+Fair,Yes,No,Yes,Female,70-74,68.95,23.81,Yes,No,Yes
+Very Good,No,No,No,Female,80+,52.16,20.37,No,No,No
+Very Good,Yes,No,No,Male,60-64,86.18,25.07,Yes,No,No
+Good,Yes,No,No,Female,80+,52.16,19.74,No,Yes,No
+Good,No,No,No,Female,75-79,93.44,31.32,No,Yes,No
+Good,Yes,No,No,Female,55-59,80.74,27.06,No,Yes,No
+Fair,No,No,No,Male,60-64,138.35,37.13,Yes,No,No
+Good,No,No,No,Female,60-64,102.06,33.23,Yes,Yes,No
+Good,Yes,No,Yes,Female,70-74,88.45,32.45,No,No,No
+Fair,Yes,No,Yes,Female,75-79,81.65,30.9,Yes,Yes,No
+Very Good,Yes,No,No,Female,75-79,54.43,21.26,Yes,Yes,No
+Fair,No,No,No,Female,75-79,143.34,49.49,No,Yes,No
+Excellent,No,No,Yes,Female,80+,75.75,30.54,No,No,No
+Very Good,Yes,No,No,Female,70-74,68.04,24.96,No,Yes,No
+Fair,Yes,No,Yes,Female,30-34,81.65,29.95,No,No,No
+Poor,No,Yes,No,Female,80+,68.95,26.09,Yes,Yes,No
+Good,No,No,Yes,Female,75-79,63.5,26.45,No,No,No
+Poor,No,Yes,No,Female,80+,52.62,21.22,Yes,No,Yes
+Fair,No,No,Yes,Male,75-79,101.15,32,No,Yes,No
+Good,Yes,No,No,Female,70-74,70.31,27.46,No,Yes,No
+Very Good,Yes,No,No,Male,70-74,117.93,32.5,Yes,No,No
+Poor,No,Yes,Yes,Female,75-79,90.72,31.32,Yes,No,No
+Poor,No,Yes,No,Female,60-64,60.78,23,Yes,No,Yes
+Fair,Yes,No,Yes,Male,70-74,102.51,26.12,Yes,Yes,Yes
+Fair,Yes,No,Yes,Male,65-69,104.33,32.08,No,Yes,No
+Very Good,Yes,No,No,Female,80+,49.9,18.88,No,No,No
+Very Good,Yes,Yes,No,Female,60-64,89.81,33.99,Yes,Yes,No
+Good,No,No,Yes,Male,75-79,86.18,30.67,Yes,Yes,No
+Fair,No,No,No,Female,60-64,77.11,30.11,No,Yes,No
+Good,Yes,No,Yes,Male,70-74,78.02,26.15,Yes,No,No
+Fair,No,Yes,Yes,Female,80+,99.34,37.59,Yes,Yes,No
+Very Good,Yes,No,No,Female,70-74,66.68,25.23,No,No,No
+Fair,No,No,No,Male,75-79,58.97,19.77,Yes,Yes,No
+Excellent,Yes,No,Yes,Male,65-69,103.87,33.82,Yes,Yes,No
+Good,Yes,No,No,Female,70-74,72.57,26.63,No,No,No
+Good,Yes,No,Yes,Male,70-74,74.39,22.24,No,Yes,No
+Poor,No,No,No,Female,65-69,69.4,27.98,No,Yes,No
+Good,Yes,Yes,No,Female,65-69,113.4,38.01,Yes,Yes,No
+Good,No,No,Yes,Female,60-64,99.79,40.24,Yes,Yes,Yes
+Very Good,Yes,No,No,Female,70-74,58.97,23.78,Yes,No,No
+Fair,No,No,Yes,Female,80+,77.11,30.11,Yes,Yes,No
+Excellent,Yes,No,No,Female,65-69,66.68,25.23,Yes,No,No
+Good,No,No,No,Female,70-74,86.18,30.67,No,No,No
+Good,No,No,No,Female,65-69,68.04,25.75,Yes,No,No
+Very Good,No,No,No,Male,80+,81.65,24.41,No,No,No
+Good,No,No,No,Male,65-69,86.18,28.06,Yes,No,No
+Very Good,Yes,No,No,Female,65-69,77.56,30.29,Yes,Yes,Yes
+Poor,No,No,Yes,Male,70-74,111.13,32.32,No,No,No
+Excellent,Yes,No,No,Male,75-79,74.39,23.53,No,No,No
+Good,Yes,No,Yes,Female,70-74,83.91,27.32,No,No,No
+Fair,Yes,No,No,Male,70-74,102.06,32.28,No,Yes,No
+Very Good,No,No,Yes,Female,75-79,90.72,40.39,No,Yes,No
+Poor,No,Yes,No,Female,55-59,127.01,43.85,Yes,Yes,Yes
+Good,Yes,No,No,Male,65-69,117.93,35.26,No,Yes,No
+Good,Yes,No,No,Female,80+,63.05,22.43,No,No,No
+Poor,Yes,No,No,Male,65-69,67.13,18.01,Yes,Yes,No
+Poor,No,No,No,Female,80+,71.67,29.85,No,No,Yes
+Excellent,Yes,No,No,Male,80+,102.51,30.65,No,Yes,No
+Good,Yes,No,No,Female,80+,63.5,25.61,No,Yes,No
+Fair,No,Yes,Yes,Female,65-69,90.72,30.41,Yes,Yes,No
+Very Good,No,No,No,Female,80+,68.04,30.3,No,Yes,No
+Excellent,Yes,No,Yes,Male,80+,85.73,29.6,Yes,Yes,Yes
+Poor,Yes,No,Yes,Male,65-69,145.15,40,Yes,No,Yes
+Good,Yes,Yes,No,Female,60-64,67.59,22.66,No,Yes,No
+Fair,Yes,No,No,Female,80+,58.06,22.67,Yes,No,Yes
+Good,No,No,No,Female,65-69,58.06,22.67,No,Yes,No
+Fair,No,No,Yes,Female,45-49,103.87,46.25,No,Yes,No
+Good,No,Yes,No,Female,70-74,70.31,27.46,Yes,No,No
+Good,Yes,No,Yes,Female,75-79,108.86,33.47,No,No,No
+Poor,No,No,Yes,Female,65-69,107.05,40.51,No,No,No
+Good,Yes,No,No,Male,75-79,65.77,22.71,No,No,No
+Good,No,No,Yes,Female,50-54,96.62,40.25,No,No,No
+Very Good,Yes,No,Yes,Female,75-79,63.5,24.8,Yes,Yes,No
+Good,Yes,No,No,Female,65-69,117.03,40.41,Yes,Yes,No
+Very Good,No,No,Yes,Female,70-74,63.5,24.03,No,Yes,No
+Good,No,No,Yes,Male,80+,83.91,25.8,Yes,No,No
+Fair,Yes,No,Yes,Female,70-74,60.33,25.13,Yes,Yes,No
+Poor,No,No,No,Female,65-69,72.57,23.63,Yes,No,Yes
+Fair,Yes,No,No,Female,65-69,84.82,32.1,No,No,Yes
+Excellent,No,No,No,Female,40-44,57.15,22.32,Yes,Yes,No
+Excellent,Yes,Yes,No,Male,30-34,60.78,18.69,Yes,No,No
+Fair,Yes,No,No,Female,80+,52.62,18.72,No,Yes,Yes
+Fair,No,No,No,Female,75-79,93.89,31.47,Yes,Yes,Yes
+Good,No,No,No,Female,70-74,78.47,27.92,Yes,No,No
+Very Good,Yes,No,No,Female,75-79,68.04,24.21,No,Yes,No
+Fair,No,No,Yes,Female,70-74,67.13,21.86,No,Yes,No
+Very Good,Yes,No,No,Female,75-79,68.04,25.75,No,Yes,No
+Very Good,Yes,No,No,Female,60-64,104.33,37.12,No,Yes,No
+Fair,Yes,No,Yes,Male,60-64,104.33,28.75,Yes,Yes,No
+Good,Yes,No,No,Male,75-79,111.13,34.17,Yes,No,Yes
+Very Good,Yes,No,No,Female,65-69,70.31,23.57,Yes,No,No
+Very Good,No,Yes,Yes,Female,70-74,104.33,38.27,No,Yes,No
+Good,Yes,No,No,Female,60-64,58.06,25,Yes,Yes,No
+Poor,Yes,No,No,Female,80+,92.99,36.31,No,Yes,No
+Good,No,No,No,Female,70-74,81.65,29.95,Yes,No,No
+Good,No,No,No,Female,80+,74.84,27.46,No,Yes,No
+Good,Yes,No,No,Female,70-74,90.72,31.32,Yes,No,No
+Poor,No,No,Yes,Male,75-79,90.72,25.68,No,Yes,No
+Fair,No,Yes,No,Female,75-79,49.44,18.71,No,No,No
+Very Good,Yes,No,No,Female,65-69,77.11,27.44,No,Yes,No
+Poor,No,Yes,Yes,Female,75-79,85.28,35.52,Yes,No,No
+Poor,No,Yes,Yes,Female,70-74,122.47,42.29,Yes,No,No
+Good,No,No,No,Male,80+,108.86,32.55,Yes,No,No
+Good,No,No,No,Female,60-64,72.57,26.63,No,Yes,Yes
+Excellent,Yes,No,No,Male,80+,90.72,27.89,Yes,No,No
+Excellent,Yes,No,No,Male,60-64,89.81,26.12,No,No,No
+Fair,Yes,Yes,No,Female,60-64,46.72,16.62,No,No,Yes
+Good,No,Yes,Yes,Female,50-54,127.01,45.19,Yes,No,No
+Good,No,No,No,Female,80+,81.65,29.05,No,Yes,No
+Excellent,Yes,Yes,No,Female,18-24,72.57,29.26,No,Yes,No
+Very Good,Yes,No,No,Female,30-34,63.5,25.61,No,No,No
+Very Good,Yes,No,No,Female,35-39,90.72,29.53,No,Yes,No
+Good,Yes,No,No,Male,60-64,97.98,30.99,No,No,No
+Very Good,Yes,No,No,Female,55-59,90.72,35.43,No,No,No
+Good,Yes,Yes,No,Female,75-79,65.77,25.69,No,Yes,No
+Good,Yes,No,No,Male,40-44,73.48,26.15,Yes,No,No
+Good,Yes,No,No,Male,55-59,106.59,32.78,No,Yes,No
+Excellent,Yes,No,No,Male,55-59,74.84,23.67,No,Yes,No
+Good,Yes,No,No,Female,50-54,90.72,34.33,No,No,No
+Good,No,No,No,Male,80+,69.4,21.95,No,Yes,No
+Excellent,Yes,No,No,Male,75-79,77.11,25.1,No,Yes,No
+Good,Yes,No,No,Male,45-49,90.72,28.7,Yes,No,No
+Excellent,Yes,Yes,No,Female,70-74,63.5,24.03,Yes,No,No
+Very Good,Yes,No,Yes,Male,60-64,120.66,34.15,No,Yes,No
+Fair,Yes,Yes,No,Female,50-54,132.9,45.89,No,No,No
+Excellent,Yes,No,Yes,Male,40-44,106.59,32.78,No,No,No
+Good,Yes,No,No,Male,75-79,81.65,25.1,No,No,No
+Very Good,Yes,No,No,Female,25-29,61.23,21.79,No,Yes,No
+Good,No,No,Yes,Male,80+,120.2,34.02,Yes,Yes,Yes
+Good,Yes,Yes,No,Female,35-39,81.65,31.89,Yes,Yes,No
+Very Good,No,No,No,Female,55-59,90.72,36.58,Yes,Yes,No
+Excellent,Yes,No,No,Female,55-59,74.84,28.32,No,Yes,No
+Good,Yes,No,Yes,Female,65-69,60.33,20.83,Yes,No,No
+Poor,No,Yes,Yes,Male,40-44,110.68,31.33,Yes,Yes,No
+Good,Yes,No,No,Female,35-39,58.97,22.31,No,No,No
+Very Good,Yes,Yes,No,Female,30-34,83.91,31.75,No,Yes,No
+Good,No,No,No,Female,60-64,56.7,20.8,Yes,No,No
+Very Good,Yes,No,No,Male,55-59,86.18,26.5,Yes,Yes,No
+Excellent,Yes,No,No,Female,40-44,58.97,21.63,Yes,Yes,No
+Very Good,Yes,No,No,Female,35-39,99.79,34.46,No,No,No
+Good,Yes,Yes,No,Male,70-74,83.91,26.54,No,Yes,No
+Good,No,No,Yes,Male,65-69,95.25,28.48,No,No,No
+Very Good,Yes,No,No,Male,35-39,95.25,26.96,No,Yes,No
+Good,Yes,No,Yes,Male,50-54,110.68,33.09,Yes,Yes,Yes
+Excellent,Yes,No,No,Female,70-74,52.16,16.04,Yes,Yes,No
+Very Good,Yes,No,Yes,Female,65-69,70.31,27.46,No,No,No
+Very Good,Yes,No,Yes,Male,70-74,105.69,32.5,Yes,No,Yes
+Good,Yes,No,Yes,Male,30-34,145.15,40,No,No,No
+Very Good,Yes,No,No,Female,35-39,48.53,22.36,Yes,No,No
+Very Good,Yes,No,No,Female,35-39,65.77,26.52,No,No,No
+Very Good,Yes,No,No,Female,55-59,103.87,33.82,No,Yes,No
+Fair,Yes,Yes,No,Female,45-49,68.04,29.29,Yes,Yes,No
+Poor,No,Yes,Yes,Male,55-59,92.99,26.32,Yes,Yes,Yes
+Good,No,Yes,No,Female,65-69,81.65,32.92,Yes,No,No
+Fair,Yes,Yes,Yes,Female,65-69,85.73,29.6,No,No,Yes
+Very Good,Yes,No,No,Male,40-44,112.04,30.07,No,Yes,No
+Fair,Yes,No,No,Female,80+,77.11,29.18,No,Yes,No
+Very Good,No,No,No,Male,25-29,77.11,23.06,Yes,Yes,No
+Very Good,Yes,No,No,Male,40-44,127.01,35.95,No,Yes,No
+Very Good,Yes,No,No,Male,45-49,167.83,43.88,Yes,Yes,No
+Very Good,Yes,No,No,Male,60-64,92.53,29.27,Yes,Yes,No
+Poor,No,No,No,Male,50-54,111.13,32.32,Yes,No,No
+Good,Yes,No,No,Female,65-69,49.9,20.12,Yes,No,No
+Very Good,Yes,No,No,Male,30-34,108.86,36.49,No,No,No
+Very Good,Yes,Yes,Yes,Male,55-59,113.4,35.87,No,Yes,No
+Fair,No,No,Yes,Female,60-64,81.65,30.9,No,Yes,No
+Very Good,No,Yes,No,Female,45-49,96.16,36.39,No,No,No
+Excellent,Yes,Yes,No,Female,25-29,45.36,19.53,No,Yes,No
+Excellent,Yes,No,No,Male,60-64,68.04,23.49,No,No,No
+Very Good,Yes,No,No,Female,45-49,70.31,26.61,Yes,Yes,No
+Excellent,Yes,No,No,Female,35-39,117.93,43.27,Yes,No,No
+Very Good,Yes,No,No,Male,60-64,97.52,32.69,No,Yes,No
+Excellent,Yes,No,No,Male,35-39,79.38,25.11,Yes,Yes,No
+Very Good,Yes,No,No,Female,55-59,54.43,21.95,No,Yes,No
+Good,Yes,No,Yes,Male,60-64,92.99,26.32,No,No,No
+Very Good,No,No,No,Male,18-24,65.77,19.13,No,No,No
+Fair,No,Yes,No,Female,18-24,65.77,27.4,No,No,No
+Good,Yes,No,Yes,Female,70-74,65.77,26.52,No,No,No
+Good,Yes,No,No,Female,55-59,70.31,25.79,No,Yes,No
+Very Good,Yes,No,No,Female,40-44,63.5,24.03,No,No,No
+Fair,No,No,No,Female,60-64,61.23,23.91,Yes,Yes,No
+Good,Yes,No,No,Male,40-44,81.65,28.19,No,No,No
+Very Good,Yes,No,No,Male,55-59,72.57,22.32,Yes,No,No
+Good,No,No,No,Female,65-69,78.47,27.1,Yes,No,No
+Very Good,Yes,No,No,Female,75-79,57.15,24.61,Yes,Yes,No
+Good,Yes,Yes,No,Female,40-44,78.93,31.82,No,Yes,No
+Very Good,Yes,No,No,Female,65-69,68.04,27.44,No,No,No
+Good,Yes,No,No,Male,55-59,142.88,38.34,Yes,No,No
+Fair,Yes,Yes,No,Female,45-49,95.25,30.13,Yes,No,No
+Very Good,Yes,No,No,Male,25-29,113.4,32.1,Yes,Yes,No
+Fair,Yes,Yes,No,Female,65-69,47.63,21.21,No,Yes,No
+Poor,Yes,No,No,Female,40-44,111.13,49.48,Yes,No,No
+Fair,Yes,No,No,Male,65-69,68.04,19.26,Yes,Yes,Yes
+Poor,No,Yes,Yes,Female,60-64,79.38,34.18,No,Yes,No
+Good,No,Yes,No,Female,45-49,122.47,43.58,Yes,Yes,No
+Excellent,Yes,Yes,No,Female,50-54,97.52,33.67,No,No,No
+Very Good,Yes,No,No,Male,45-49,106.59,35.73,No,Yes,No
+Excellent,Yes,No,No,Male,35-39,74.84,20.62,Yes,Yes,No
+Fair,No,No,No,Female,60-64,79.38,28.25,No,No,No
+Excellent,No,No,No,Female,18-24,81.65,32.92,No,Yes,No
+Good,Yes,No,No,Female,30-34,90.72,29.53,No,No,No
+Good,Yes,Yes,No,Female,30-34,54.43,21.95,No,Yes,No
+Excellent,Yes,No,No,Male,40-44,96.62,29.71,No,No,No
+Fair,Yes,No,No,Female,65-69,88.45,32.45,Yes,No,No
+Good,No,No,Yes,Female,70-74,72.12,32.11,Yes,Yes,No
+Very Good,Yes,No,No,Male,18-24,117.93,33.38,No,No,No
+Fair,No,Yes,No,Female,70-74,83.91,36.13,Yes,No,No
+Very Good,Yes,No,No,Male,35-39,95.25,31.01,No,Yes,No
+Fair,No,Yes,No,Male,45-49,56.7,20.8,Yes,Yes,No
+Very Good,Yes,No,No,Male,18-24,72.57,21.7,No,Yes,No
+Very Good,No,Yes,No,Female,60-64,90.72,36.58,No,Yes,No
+Excellent,Yes,No,No,Female,30-34,95.25,31.01,Yes,Yes,No
+Good,No,No,No,Female,70-74,74.84,31.18,Yes,Yes,No
+Very Good,No,No,No,Female,45-49,81.65,30.9,Yes,No,No
+Fair,No,No,No,Female,50-54,86.18,35.9,No,No,No
+Very Good,Yes,No,Yes,Female,65-69,113.4,39.16,No,No,No
+Very Good,No,No,No,Female,60-64,87.09,31.95,Yes,Yes,No
+Good,No,No,No,Male,70-74,90.72,31.32,Yes,No,Yes
+Good,Yes,Yes,No,Male,55-59,79.38,23.73,Yes,No,No
+Good,Yes,No,Yes,Male,60-64,111.13,35.15,Yes,No,No
+Very Good,Yes,No,No,Male,18-24,68.04,23.49,No,Yes,No
+Good,Yes,No,No,Male,40-44,92.99,29.41,No,Yes,No
+Very Good,No,No,No,Male,70-74,88.45,25.04,Yes,Yes,No
+Good,No,No,No,Male,50-54,88.45,28.8,Yes,No,No
+Very Good,Yes,No,No,Female,40-44,54.43,19.37,Yes,No,No
+Fair,No,No,No,Female,40-44,81.65,29.95,No,No,No
+Fair,No,No,No,Female,35-39,102.06,43.94,No,No,No
+Very Good,Yes,No,No,Male,50-54,99.79,31.57,No,Yes,No
+Good,Yes,Yes,No,Female,45-49,56.7,24.41,Yes,Yes,No
+Poor,Yes,Yes,No,Male,50-54,54.43,26.9,Yes,Yes,No
+Good,Yes,No,No,Male,70-74,97.52,27.6,No,Yes,No
+Fair,Yes,No,No,Female,60-64,71.67,25.5,No,No,No
+Very Good,Yes,No,No,Female,35-39,87.54,31.15,No,No,No
+Excellent,Yes,No,No,Male,30-34,74.84,23.67,No,Yes,No
+Good,Yes,Yes,No,Female,65-69,58.97,22.31,Yes,Yes,No
+Very Good,No,No,No,Male,55-59,86.18,29.76,No,Yes,No
+Excellent,Yes,No,No,Male,70-74,81.65,29.05,No,No,No
+Good,No,Yes,Yes,Female,80+,72.57,29.26,No,Yes,Yes
+Very Good,Yes,No,No,Male,45-49,95.25,29.29,Yes,Yes,No
+Good,Yes,No,No,Male,40-44,83.91,28.13,Yes,Yes,No
+Good,Yes,No,No,Male,65-69,74.84,25.09,Yes,Yes,No
+Very Good,No,Yes,No,Female,18-24,47.63,18.02,No,Yes,No
+Excellent,Yes,No,No,Female,45-49,81.65,26.58,Yes,Yes,No
+Very Good,No,Yes,No,Male,40-44,97.52,31.75,No,No,No
+Good,Yes,No,No,Male,55-59,104.33,28.75,Yes,Yes,No
+Very Good,Yes,No,No,Male,25-29,81.65,21.91,No,Yes,No

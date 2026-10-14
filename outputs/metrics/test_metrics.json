@@ -1,0 +1,33 @@
+{
+    "dataset_split": "Untouched Test Set (150 samples)",
+    "selected_configuration": {
+        "config_id": "Config_7_HighDropout",
+        "hidden_units": [
+            128,
+            64
+        ],
+        "dropout_rate": 0.4,
+        "learning_rate": 0.001,
+        "batch_size": 32
+    },
+    "optimal_threshold": 0.42,
+    "default_threshold": 0.5,
+    "metrics_at_optimal_threshold": {
+        "accuracy": 0.76,
+        "precision": 0.2727,
+        "recall_sensitivity": 0.4286,
+        "specificity": 0.814,
+        "f1_score": 0.3333,
+        "roc_auc": 0.6929,
+        "true_negatives": 105,
+        "false_positives": 24,
+        "false_negatives": 12,
+        "true_positives": 9
+    },
+    "metrics_at_default_0.5_threshold": {
+        "accuracy": 0.84,
+        "precision": 0.3333,
+        "recall_sensitivity": 0.1429,
+        "f1_score": 0.2
+    }
+}
